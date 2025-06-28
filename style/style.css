@@ -79,6 +79,16 @@
 body {
     background-color: #8B0000;
 }
+.description {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.background2 {
+    background: url(../images/) no-repeat center center/cover;
+    height: 350px;
+}
 footer {
     background-color:#8B0000 ;
     color: white;
