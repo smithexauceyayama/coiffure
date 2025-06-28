@@ -38,6 +38,13 @@
 .hero h2 {
     font-size: 40px;
 }
+.titre {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    margin-bottom: 2Opx;
+}
 .display {
     display: flex;
     gap: 20px;
@@ -45,6 +52,7 @@
     justify-content: center;
 }
 .card {
+    margin-top: 20px;
     width: 350px;
     background-color:blue ;
     margin-bottom: 20px;
@@ -67,4 +75,7 @@
 }
 .card img:hover {
     transform: scale(1.1);
+}
+footer {
+    
 }
