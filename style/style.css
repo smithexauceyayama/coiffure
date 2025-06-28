@@ -89,6 +89,10 @@ body {
     background: url(../images/service.jpg) no-repeat center center/cover;
     height: 350px;
 }
+.background3 {
+    background: url(../images/contact.jpg) no-repeat center center/cover;
+    height: 350px;
+}
 footer {
     background-color:#8B0000 ;
     color: white;
