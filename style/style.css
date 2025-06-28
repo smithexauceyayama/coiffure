@@ -6,16 +6,20 @@
     line-height: 1.6;
     overflow-x: hidden;
 }
+.background {
+    background: url(../images/bg.jpg) no-repeat center center/cover;
+    height: 350px;
+}
 .header {
     text-align: center;
-    margin-right: 30px;
+    padding-right: 30px;
     background-color: #8B0000;
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 .header-nav a {
-    margin-left: 20px;
+    padding-left: 20px;
     color: white;
     text-decoration: none;
 }
@@ -25,4 +29,12 @@
 .main {
     padding: 20px;
     background-color: #E2725B;
+}
+.hero {
+    text-align: center;
+    color:white;
+    padding-top: 150px;
+}
+.hero h2 {
+    font-size: 40px;
 }
