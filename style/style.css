@@ -76,6 +76,12 @@
 .card img:hover {
     transform: scale(1.1);
 }
+body {
+    background-color: #8B0000;
+}
 footer {
-    
+    background-color:#8B0000 ;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
